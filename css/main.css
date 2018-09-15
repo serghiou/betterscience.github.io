@@ -12,6 +12,7 @@ body {
   /*color: #00ff00;*/
   text-align: justify;
   color: #404040;
+  line-height: 1.6;
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
