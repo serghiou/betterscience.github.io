@@ -9,10 +9,9 @@ layout: null
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  /*color: #00ff00;*/
   text-align: justify;
   color: #404040;
-  line-height: 1.6;
+  line-height: 1.7;
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
