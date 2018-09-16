@@ -9,9 +9,10 @@ use-site-title: true
 
 Subscribe to our mailing list for updates, news and events [here](https://mailman.stanford.edu/mailman/listinfo/reproducible-science)!
 
+
 ### Contribute
 
-We are in desperate need of hands! If keen to contribute in any way, email us [here](mailto:sstelios@stanford.edu)!
+We are super keen for more hands! If keen to contribute in any way, email us [here](mailto:sstelios@stanford.edu)!
 
 <br>
 
