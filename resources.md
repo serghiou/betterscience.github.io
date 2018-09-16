@@ -38,6 +38,8 @@ use-site-title: true
 
 * [Meta-research on Reddit.](https://www.reddit.com/r/metaresearch/) A community for anyone interested in improving how science is done. It contains hundreds of recommended articles on issues related to better science. Feel free to read through them and contribute your own.
 
+* [Meta-Research Innovation Center at Stanford.](https://metrics.stanford.edu/) A center at Stanford dedicated to research about research. "In partnership with researchers, policymakers and other key stakeholders, the Meta-Research Innovation Center at Stanford (METRICS) is reimagining science for the 21st century with the goal of strengthening the research enterprise to improve the quality of scientific studies in biomedicine and beyond."
+
 <br>
 
 ## Similar initiatives elsewhere
