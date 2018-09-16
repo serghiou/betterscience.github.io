@@ -287,7 +287,8 @@ footer p.text-muted {
 }
 
 footer a {
-  color: {{site.footer-link-col}};
+  /*color: {{site.footer-link-col}};*/
+  color: {{ site.link-col }};
 }
 
 footer .list-inline {
