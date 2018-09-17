@@ -45,3 +45,5 @@ use-site-title: true
 ## Similar initiatives elsewhere
 
 * [Reproducible Research Oxford.](https://rroxford.github.io/) Apparently there is a very similar initiative at the University of Oxford, which for the time being appears much better staffed and funded...
+
+* [Open Science Community Utrecht.](https://openscience-utrecht.com/) Utrecht University has been a long-standing proponent of Open Science, so it is no surprise this initiative exists. They apparently host a bi-monthly informal Open Science Café, have a brought multidisciplinary community across the university and host workshops about once every two months.
