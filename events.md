@@ -11,7 +11,7 @@ use-site-title: true
 
 [Klein O, Hardwicke TE, Aust F, Breuer J, Danielsson H, Mohr AF, Ijzerman H, Nilsonne G, Vanpaemel W, Frank MC. The ASA's Statement on p-Values: Context, Process, and Purpose. 2016. Am Stat, 70(2):129-33.](https://amstat.tandfonline.com/doi/abs/10.1080/00031305.2016.1154108#.W6AWAP5Kh25)
 
-Prof. Steven Goodman, MD, PhD, is the co-director of [METRICS](https://metrics.stanford.edu/) and a biostatistician working on statistical inference, Bayesian statistics and their application to practical data analysis. He is one of the world experts in p-values and he will be taking us about what p-values are, common misconceptions (e.g. "the probability of my results being due to chance"), how to use them appropriately and future replacements of p-values. As always, this talk is paired to a relevant article, which you are encouraged to read before attending. **Free food** will be available!
+Prof. Steven Goodman, MD, PhD, is the co-director of [METRICS](https://metrics.stanford.edu/) and a biostatistician working on statistical inference, Bayesian statistics and their application to practical data analysis. He is one of the world experts in p-values and he will be taking us through what p-values are, common misconceptions (e.g. "the probability of my results being due to chance"), how to use them appropriately and future replacements of p-values. As always, this talk is paired to a relevant article, which you are encouraged to read before attending. **Free food** will be available!
 
 
 ***
