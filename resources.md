@@ -30,6 +30,8 @@ use-site-title: true
 
 * [STATS 211: Meta-research: Appraising Research Findings, Bias, and Meta-analysis.](http://explorecourses.stanford.edu/search?view=catalog&q=STATS211) An introduction to appraising scientific research, understanding what is wrong with today's research, how it could be better and how to use systematic reviews and meta-analyses to synthesize multiple lines of evidence into single values/recommendations.
 
+* [HRP 264: Foundations of Statistical and Scientific Inference.](https://explorecourses.stanford.edu/search?view=catalog&q=hrp264) A fantastic introduction by Prof. Steve Goodman on what we actually mean about probability, the philosophical principles that underly the methods that we use to make sense of data, relevant controversies and how to make sense of p-values and research reproducibility.
+
 * [MOOC: Transparent and Open Social Science Research.](https://www.bitss.org/events/mooc-transparent-and-open-social-science-research-2/) This is offered online by [BITSS (Berkeley Initiative for Transparency in the Social Sciences)](https://www.bitss.org/). "Demand for evidence-based policy is growing, but so is recognition that limited transparency in social science research has contributed to what many have called a crisis of reproducibility and credibility. With this 5-week, self-paced Massive Open Online Course (MOOC), you can explore the causes of limited transparency in social science research, as well as tools to make your own work more open and reproducible." Even though the linked iteration of the course is over, you can download all materials for free and the course is held a number of times per year.
 
 <br>
