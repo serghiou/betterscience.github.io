@@ -7,7 +7,7 @@ use-site-title: true
 
 ### P-values: What They Truly Are and How to Not Misuse Them
 
-#### TBT - sometime in December
+#### TBD - sometime in December
 
 [Wasserstein RL, Lazar NA. The ASA's Statement on p-Values: Context, Process, and Purpose. 2016. Am Stat, 70(2):129-33.](https://amstat.tandfonline.com/doi/abs/10.1080/00031305.2016.1154108#.W6AWAP5Kh25)
 
