@@ -13,7 +13,7 @@ use-site-title: true
 
 [Munafò MR, Nosek BA, Bishop, DV, Button, KS, Chambers CD, Sert NP, Simonsohn U, Wagenmakers E, Ware JJ, Ioannidis JP. A manifesto for reproducible science. 2017. Nature Human Behaviour, 1:0021.](https://www.nature.com/articles/s41562-016-0021)
 
-Our inaugural talk! This will be hosted by none other than Prof. John Ioannidis, MD, DSc, co-director of [METRICS](https://metrics.stanford.edu/), one of the world leaders in research on research and the second most widely cited scientist at Stanford. Prof. Ioannidis will talk about the _Reproducibility Crisis_. Each of our talks will be paired to a relevant article to familiarize the scientific community with the vast literature in the area, which is unfortunately not widely known. You are encouraged to read the article before attending. **Free food** will be available!
+Our inaugural talk! This will be hosted by none other than Prof. John Ioannidis, MD, DSc, co-director of [METRICS](https://metrics.stanford.edu/), one of the world leaders in research on research and the second most widely cited scientist at Stanford. Prof. Ioannidis will talk about the _Reproducibility Crisis_. Each of our talks will be paired to a relevant article to familiarize the scientific community with the vast literature in the area, which is unfortunately not widely known. You are encouraged to read the article before attending. **Free food** will be available! RSVP [here](https://www.eventbrite.com/e/the-reproducibility-crisis-tickets-50707388163)!
 
 ***
 
