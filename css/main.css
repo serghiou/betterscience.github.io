@@ -13,6 +13,7 @@ body {
   color: #404040;
   line-height: 1.7;
   position: relative;
+  padding-top: 65px;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
   background-image: url({{ site.page-img }});
@@ -211,6 +212,9 @@ img {
 
   .navbar-custom .avatar-container  .avatar-img {
     width: 100%;
+  }
+body {
+    padding-top: 100px;
   }
 }
 
