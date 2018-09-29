@@ -249,7 +249,7 @@ img {
     display: block;
   }
   body {
-    padding-top: 110px;
+    padding-top: 60px;
   }
 }
 @media only screen and (min-width: 768px) {
