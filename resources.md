@@ -36,11 +36,23 @@ use-site-title: true
 
 <br>
 
-## Other
+## Tools
+
+* [Reproducible Builds.](https://reproducible-builds.org/) Reproducible builds provides a set of tools to help researchers build computer code, the results of which can be replicated exactly by others.
+
+<br>
+
+## Online communities
 
 * [Meta-research on Reddit.](https://www.reddit.com/r/metaresearch/) A community for anyone interested in improving how science is done. It contains hundreds of recommended articles on issues related to better science. Feel free to read through them and contribute your own.
 
+<br>
+
+## Research centers
+
 * [Meta-Research Innovation Center at Stanford.](https://metrics.stanford.edu/) A center at Stanford dedicated to research about research. "In partnership with researchers, policymakers and other key stakeholders, the Meta-Research Innovation Center at Stanford (METRICS) is reimagining science for the 21st century with the goal of strengthening the research enterprise to improve the quality of scientific studies in biomedicine and beyond."
+
+* [QUEST - BIH Center for Transforming Biomedical Research.](https://www.bihealth.org/en/quest-center/quest-opening/) A center in Berlin interested in advancing in improving biomedical research quality and spearheading a number of astonishing initiatives, such as AllTrials. Prof. John Ioannidis of Stanford has recently been awarded an Einstein Fellowship to work with the center for 3 years and create METRIC-B.
 
 <br>
 
