@@ -7,7 +7,7 @@ use-site-title: true
 
 ### Subscribe
 
-Subscribe to our mailing list for updates, news and events [here](https://mailman.stanford.edu/mailman/listinfo/reproducible-science)!
+Subscribe to our mailing list for updates, news and events [here](https://mailman.stanford.edu/mailman/listinfo/reproducible-science)! You can also subscribe to the METRICS mailing list to receive updates from them and attend their events [here](https://mailman.stanford.edu/mailman/listinfo/metrics_lab).
 
 
 ### Contribute
