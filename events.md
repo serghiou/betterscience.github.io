@@ -46,6 +46,6 @@ Tom Hardwicke, PhD, is a post-doc at [METRICS](https://metrics.stanford.edu/) an
 
 Prof. Steven Goodman, MD, PhD, is the co-director of [METRICS](https://metrics.stanford.edu/) and a biostatistician working on statistical inference, Bayesian statistics and their application to practical data analysis. He is one of the world experts in p-values and he will be taking us through what p-values are, common misconceptions (e.g. "the probability of my results being due to chance"), how to use them appropriately and future replacements of p-values. As always, this talk is paired to a relevant article, which you are encouraged to read before attending. **Free food** will be available!
 
-<a href="http://serghiou.github.io/slides/goodman-12-2018-how-to-hack-p-values.pdf">Here are the slides from this event.</a>
+
 
 
