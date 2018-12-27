@@ -7,18 +7,18 @@ use-site-title: true
 
 ## Upcoming
 
-TBD
+#### TBD
 
 ***
 
 ## Future
 
-TBD
+#### TBD
 
 ***
 
 ## Past
-### The Reproducibility Crisis.
+### The Reproducibility Crisis
 
 #### 12 October, 2018, 12-1pm, Clark Center, S361
 
@@ -28,7 +28,7 @@ Our inaugural talk! This will be hosted by none other than Prof. John Ioannidis,
 
 ***
 
-### Open Science in Practice.
+### Open Science in Practice
 
 #### 9 November, 2018, 12-1pm, Alway Building, M112
 
@@ -38,7 +38,7 @@ Tom Hardwicke, PhD, is a post-doc at [METRICS](https://metrics.stanford.edu/) an
 
 ***
 
-### How to hack p-Values.
+### How to hack p-Values
 
 #### 10 December, 2018, 12-1pm, Alway Building, M114
 
