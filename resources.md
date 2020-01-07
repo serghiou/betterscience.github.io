@@ -11,11 +11,11 @@ use-site-title: true
 
 * [Rigor Mortis: How Sloppy Science Creates Worthless Cures, Crushes Hope, and Wastes Billions.](https://smile.amazon.com/Rigor-Mortis-Science-Worthless-Billions/dp/154164414X/) A fantastic book by Richard Harris published in 2017 on the current state of biomedical research. Very well written, an easy read, a great resource of citations and the best introduction to the topic I have read so far.
 
-* [I Think You'll Find It's a Bit More Complicated Than That.](https://smile.amazon.com/Think-Youll-Find-More-Complicated/dp/0007462484/) A fantastic book written by Ben Goldacre, well-known science writter for The Guardian and proponent of transparent clinical research. This book illustrates current problems with clinical research through stark real-worl examples. An easy read and page-turner.
+* [I Think You'll Find It's a Bit More Complicated Than That.](https://smile.amazon.com/Think-Youll-Find-More-Complicated/dp/0007462484/) A fantastic book written by Ben Goldacre, well-known science writer for The Guardian and proponent of transparent clinical research. This book illustrates current problems with clinical research through stark real-world examples. An easy read and page-turner.
 
 * [Bad Science: Quacks, Hacks, and Big Pharma Flacks.](https://smile.amazon.com/Bad-Science-Quacks-Pharma-Flacks/dp/0865479186/) Another book by Ben Goldacre. This was published in 2010 and is his first book on the topic. A book about poor reporting of medical studies in the media and what goes wrong in medical research.
 
-* [Bad Pharma.](https://smile.amazon.com/Bad-Pharma-Companies-Mislead-Patients/dp/0865478066/) Another book by Ben Goldacre. This was published in 2014 and goes through the shockingly broekn system of pharmaceutical industry and how it has had a detrimental impact on medicine through data manipulation and research misconduct.
+* [Bad Pharma.](https://smile.amazon.com/Bad-Pharma-Companies-Mislead-Patients/dp/0865478066/) Another book by Ben Goldacre. This was published in 2014 and goes through the shockingly broken system of pharmaceutical industry and how it has had a detrimental impact on medicine through data manipulation and research misconduct.
 
 ### Statistics
 
@@ -68,4 +68,4 @@ use-site-title: true
 
 * [Reproducible Research Oxford.](https://rroxford.github.io/) Apparently there is a very similar initiative at the University of Oxford, which for the time being appears much better staffed and funded...
 
-* [Open Science Community Utrecht.](https://openscience-utrecht.com/) Utrecht University has been a long-standing proponent of Open Science, so it is no surprise this initiative exists. They apparently host a bi-monthly informal Open Science Café, have a brought multidisciplinary community across the university and host workshops about once every two months.
+* [Open Science Community Utrecht.](https://openscience-utrecht.com/) Utrecht University has been a long-standing proponent of Open Science, so it is no surprise this initiative exists. They apparently host a bi-monthly informal Open Science Café, have brought multidisciplinary community across the university and host workshops about once every two months.
